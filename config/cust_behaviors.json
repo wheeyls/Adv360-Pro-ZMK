@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "escape",
+		"name": "escape",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
